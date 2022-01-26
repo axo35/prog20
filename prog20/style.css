@@ -1,0 +1,9 @@
+.container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("green-table.pnG");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background-color: antiquewhite;
+ }
