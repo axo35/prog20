@@ -7,9 +7,16 @@
     text-align: center;
     
  }
- .h1 {
-    font: 3rem monospace; 
- }
  body {
-     background-color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-color:burlywood ;
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+ }
+
+ h1 {
+    color: goldenrod;
+    font-weight: bold;
  }
