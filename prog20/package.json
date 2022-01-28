@@ -1,14 +1,13 @@
 {
   "name": "heruku_test",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/axo35/prog20.git"
+    "url": "git+https://github.com/axo35/prog20.git"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +17,8 @@
   },
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "homepage": "https://github.com/axo35/prog20#readme",
+  "devDependencies": {},
+  "description": ""
 }
-
