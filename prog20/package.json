@@ -18,7 +18,7 @@
   "dependencies": {
     "express": "^4.17.2"
   },
-  "homepage": "https://github.com/axo35/prog20#readme",
+  "homepage": "https://github.com/axo35/prog20.git#readme",
   "devDependencies": {},
   "description": ""
 }
