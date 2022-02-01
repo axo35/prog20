@@ -16,7 +16,8 @@
     "url": "https://github.com/axo35/prog20.git"
   },
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^6.1.9"
   },
   "homepage": "https://github.com/axo35/prog20.git#readme",
   "devDependencies": {},
